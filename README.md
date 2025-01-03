@@ -7,7 +7,7 @@ An open-source, low-cost ventilator designed to address the lack of medical equi
 - **License:** Open-source (MIT License).  
 
 ## Table of Contents
-1. [Overview](docs/overview.md)  
-2. [Hardware](docs/hardware/design.md)  
-3. [Software](docs/software/setup.md)  
-4. [Usage Instructions](docs/usage.md)  
+1. [Overview](overview.md)  
+2. [Hardware](hardware/design.md)  
+3. [Software](software/setup.md)  
+4. [Usage Instructions](usage.md)  
