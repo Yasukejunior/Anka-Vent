@@ -8,7 +8,7 @@ An open-source, low-cost ventilator designed for emergency medical use.
 
 ## Getting Started  
 1. Clone the repository.  
-2. Open `main.ino` in Arduino IDE.  
+2. Open `Setup.ino` in Arduino IDE.  
 3. Upload to your Arduino board.  
 
 ## License  
