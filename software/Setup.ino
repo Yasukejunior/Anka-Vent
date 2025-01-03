@@ -1,5 +1,5 @@
 /***************************************************************************
-  Copyright 2020 LE CLUB SANDWICH STUDIO SAS
+  Copyright 2020 Anka Vent
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
