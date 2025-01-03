@@ -8,7 +8,6 @@ https://docs.google.com/presentation/d/1rFC2HKy6YIyya_zlKu19EJYlvf8pmqALi6E0rdBA
 - Control board: Raspberry Pi 4 with a display.  
 
 ## Circuit Diagram  
-![Wiring Diagram](../images/wiring_diagram.png)  
 
 ## Assembly Steps  
 1. Install the blower and sensors.  
