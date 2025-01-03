@@ -9,4 +9,3 @@ The Anka-Vent Project aims to design and produce a low-cost ventilator using ope
   - Volume-controlled ventilation.  
   - 3D-printed components.  
   - Raspberry Pi and Arduino integration.  
-![Uploading IMG_4236.JPG…]()
