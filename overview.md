@@ -1,6 +1,6 @@
 # Overview
 ## Problem and Background  
-- Lack of ventilators in the Sahel region (~300 ventilators for 534,142 people).  
+- Lack of ventilators (~300 ventilators for 534,142 people in some countries).  
 - High costs and importation challenges.  
 
 ## Solution  
