@@ -1,5 +1,5 @@
 # The Anka-Vent project
-Open-source project for designing and producing a low-cost ventilator for emergency medical use in the Sahel region
+Open-source project for designing and producing a low-cost ventilator for emergency medical use 
 # Anka-Vent Project 
 An open-source, low-cost ventilator designed to address the lack of medical equipment in the Sahel region during the COVID-19 pandemic.  
 - **Objective:** Provide affordable and efficient ventilators for emergency medical use.  
