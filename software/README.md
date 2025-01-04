@@ -12,4 +12,4 @@ An open-source, low-cost ventilator designed for emergency medical use.
 3. Upload to your Arduino board.  
 
 ## License  
-This project is licensed under the GNU General Public License v3.0.
+This project is licensed under MIT Licence
